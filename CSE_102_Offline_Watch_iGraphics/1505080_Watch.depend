@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1463161336 source:c:\users\ishti\google drive\projects\1505080_watch\imain.cpp
+	"iGraphics.h"
+	"Lights.h"
+	"Time.h"
+
+1462342420 c:\users\ishti\google drive\projects\1505080_watch\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1463030479 c:\users\ishti\google drive\projects\1505080_watch\lights.h
+
+1463139636 c:\users\ishti\google drive\projects\1505080_watch\time.h
+	<stdio.h>
+	<time.h>
+
+1463161336 source:c:\users\ishti\google drive\projects\l-1 t-1\1505080_watch\imain.cpp
+	"iGraphics.h"
+	"Lights.h"
+	"Time.h"
+
+1462342420 c:\users\ishti\google drive\projects\l-1 t-1\1505080_watch\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1463030479 c:\users\ishti\google drive\projects\l-1 t-1\1505080_watch\lights.h
+
+1463139636 c:\users\ishti\google drive\projects\l-1 t-1\1505080_watch\time.h
+	<stdio.h>
+	<time.h>
+
